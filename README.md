@@ -3,7 +3,7 @@
 ### epi model
 this was a model of covid spread on a exponential random graph that simualted the population at William jewell College in 2020. 
 
-### sw match ups 
+### [ws match ups](https://connormorehouse.github.io/ws2020-pitcher-batter-matchups/) 
 this is an analysis using data visualization of woba using heat maps to develop an attack plan for each player in the match ups between Mookie Betts vs Tyler Glasnow and Ji-Man Choi and Walker Buehler in the 2020 world series matchup between the Dodgers and the Rays. 
 
 ### ba prediction model
